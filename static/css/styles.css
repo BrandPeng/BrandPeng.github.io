@@ -10912,3 +10912,44 @@ footer a:hover, footer a:active, footer a:focus {
 
 
 
+/* 🔧 调整顶部背景区域（减少空白） */
+.top-section {
+  background-size: cover;
+  background-position: center;
+  height: 220px !important; /* 原主题一般是 400~600px，这里减小 */
+  margin-bottom: 20px; /* 减少与头像之间的空隙 */
+}
+
+/* 🔧 调整头像部分的上下间距 */
+#avatar {
+  display: flex;
+  justify-content: center;
+  margin-top: -40px; /* 让头像稍微上移一点，覆盖背景区域底部 */
+  margin-bottom: 10px; /* 减少与“彭海东”文字之间空隙 */
+}
+
+#avatar img {
+  width: 140px;
+  border-radius: 50%;
+  border: 3px solid #fff;
+}
+
+/* 🔧 减少各 section 的上下 padding */
+section {
+  padding-top: 40px !important; /* 原本一般是 100px 左右 */
+  padding-bottom: 40px !important;
+}
+
+/* 🔧 精调不同 section 的分隔 */
+#home {
+  margin-bottom: 20px !important;
+}
+
+#experience {
+  margin-top: 10px !important;
+}
+
+/* 🔧 让 section 更加紧凑但不显拥挤 */
+section header h2 {
+  margin-bottom: 15px !important;
+}
