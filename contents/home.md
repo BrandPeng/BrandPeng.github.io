@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/phd-github-blue?logo=github)](https://github.com/BrandPeng)
+[![phd](https://img.shields.io/badge/phd-github-blue?logo=github)](https://github.com/BrandPeng)
 
 ### 技术栈 
 
