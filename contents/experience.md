@@ -22,7 +22,7 @@ Worked on the development and optimization of large-scale recommendation systems
 
 
 ### **技术栈**  
-<!-- **2025年1月 – 2025年6月 | 字节跳动**   -->
+
 
 - 熟练应用Java，掌握SpringBoot等开发框架。
 - 掌握大模型微调训练、LoRA/QLoRA微调与RLHF优化。
