@@ -14,7 +14,7 @@ hero:
     #   link: /resume
 features:
   - icon:
-      # src: /p4/p4-logo.svg
+
       width: 30
     title: Langchain 1.0
     details: Notes and Examples for Learning LangChain 1.0 and LangGraph 1.0
@@ -22,18 +22,17 @@ features:
     linkText: 查看笔记
   - icon:
       # src: /mininet/favicon.png
-      width: 26
+      width: 28
     title: Multi Agent
     details: A multi-agent development project built on LangGraph 1.0
     link: https://github.com/BrandPeng/Langgraph1.0
     linkText: 查看笔记
-  # - icon:
-  #     src: /go/grpc.png
-  #     width: 28
-  #   title: gRPC
-  #   details: A High-Performance, Open-Source Universal RPC Framework
-  #   link: /go/grpc
-  #   linkText: 查看笔记
+  - icon:
+      width: 28
+    title: Agentic RAG
+    details:  A Agentic RAG project built on LangGraph 1.0
+    link:  https://github.com/BrandPeng/RAG_Agent
+    linkText: 查看笔记
 ---
 
 ---
