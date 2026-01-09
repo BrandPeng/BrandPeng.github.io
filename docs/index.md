@@ -2,7 +2,7 @@
 layout: home
 hero:
   name: 彭海东
-  text: 技术学习者
+  text: AI学习者
   tagline: 大模型，Agent，RAG，Langchain，Langgraph，入侵检测，深度学习
 
   actions:
